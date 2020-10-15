@@ -9,5 +9,9 @@ public class Programm {
         out.println("Введите строку \n");
       String text= in.nextLine();
         out.println(text);
+
+        /*изменено*/
+
+       new Scanner(System.in);
     }
 }
