@@ -11,7 +11,6 @@ public class Programm {
         String text = in.nextLine();
         out.println(text);
 
-        //rerrrr334454
-        //23244
+        /*edit*/
     }
 }
